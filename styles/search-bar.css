@@ -1,0 +1,14 @@
+.searchBarContainer {
+  margin: 20px 0;
+  display: flex;
+  width: 100%;
+}
+
+.input {
+  height: 30px;
+  width: 100%;
+  display: flex;
+  border-radius: 12px;
+  border: none;
+  text-align: center;
+}
